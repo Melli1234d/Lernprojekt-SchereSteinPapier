@@ -1,0 +1,35 @@
+.container-buttons {
+    flex-direction: row;
+
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.icon {
+    color: white;
+    font-weight: bold;
+    border-radius: 80px;
+    padding: 1.2rem;
+    height: 3rem;
+    width: 3rem;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    display: grid;
+    background-color: #003cff;
+    justify-content: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.icon-title {
+    color: white;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+.Ausrichtung_column {
+    flex-direction: column;
+}
